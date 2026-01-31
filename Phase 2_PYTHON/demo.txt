@@ -1,0 +1,2 @@
+ file openning with write mode , 
+ his can be write at the end of file
